@@ -1,10 +1,10 @@
 # Web Undangan Pernikahan
 
-Selamat datang di repositori Undangan Pernikahan! Repositori ini berisi kode untuk halaman undangan pernikahan, di mana Anda dapat menemukan informasi terkini tentang acara pernikahan.
+Selamat datang di repositori Undangan Pernikahan! Repositori ini berisi kode untuk halaman undangan pernikahan, di mana Anda dapat menemukan informasi terkini tentang acara undangan pernikahan.
 
 ## Cara Mengakses
 
-Anda dapat mengakses halaman undangan melalui tautan berikut: [Wedding Invitation](https://github.com/bintangnugrahaa)
+Anda dapat mengakses halaman undangan melalui tautan berikut: [Undangan Pernikahan](https://github.com/bintangnugrahaa)
 
 ## Detail Proyek
 
@@ -24,9 +24,9 @@ Kontribusi melalui perbaikan bug, perbaikan tampilan, atau penambahan fitur sang
 
 ## Kontak
 
-Jika Anda memiliki pertanyaan atau ingin menghubungi kami terkait acara pernikahan, silakan kirimkan surel ke djakarta1973@gmail.com.
+Jika Anda memiliki pertanyaan atau ingin menghubungi saya, silakan kirimkan email ke djakarta1973@gmail.com.
 
-Terima kasih atas perhatian Anda dan kami berharap dapat berbagi kebahagiaan bersama Anda di acara pernikahan kami!
+Terima kasih atas perhatian Anda dan kami berharap dapat berbagi kebahagiaan bersama Anda di repositori saya!
 
 Salam,
 Muhammad Bintang Nugraha
