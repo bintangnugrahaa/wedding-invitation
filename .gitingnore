@@ -1,0 +1,18 @@
+# Ignore dependencies and build artifacts
+/node_modules/
+/dist/
+/countdown/simplyCountdown.min.js
+/countdown/simplyCountdown.theme.default.css
+/bs5-lightbox/
+
+# Ignore image thumbnails and cache files
+*.jpeg
+*.jpg
+*.png
+
+# Ignore any sensitive or personal data
+.env
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
