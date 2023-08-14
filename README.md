@@ -4,7 +4,7 @@ Selamat datang di repositori Undangan Pernikahan! Repositori ini berisi kode unt
 
 ## Cara Mengakses
 
-Anda dapat mengakses halaman undangan melalui tautan berikut: [Undangan Pernikahan Cowok & Cewek](https://github.com/bintang_nugraha)
+Anda dapat mengakses halaman undangan melalui tautan berikut: [Wedding Invitation](https://github.com/bintangnugrahaa)
 
 ## Detail Proyek
 
